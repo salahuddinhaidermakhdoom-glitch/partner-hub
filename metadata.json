@@ -1,0 +1,6 @@
+{
+  "name": "Partner Hub",
+  "description": "The premier discovery platform to find your ideal partner — whether building a billion-dollar startup or building a meaningful life together. Dual-mode matching for Business Co-Founders and Life Partners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
